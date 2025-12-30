@@ -62,7 +62,33 @@
   
   <br>
   <br>
+  ---
+
+<div align="center">
+
+  <br>
+  <img src="santuario_logo.jpg" width="180" style="border-radius: 20px; box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);">
   
+  ## ❤️ LA OTRA CARA DEL INGENIERO
+  *(The Human Side)*
+
+</div>
+
+> "Han pasado casi 10 años desde que inicié una labor social que, más que eso, es una luz de esperanza para seres que para la mayoría no valen nada o ni siquiera existen. Olvidados, marginados en las sombras... **decidí entregarles mi luz para darles una esperanza de vida.**
+>
+> Lejos del código, librerías, dashboards o APIs, existe otra entidad con experiencia en **salvar vidas, responsabilidad, sacrificio, gestión de ayuda, atención y amor incondicional.**"
+
+<div align="center">
+
+  *"Esta es la experiencia que pongo por delante, la que quiero que hable por mí. Una experiencia opuesta a lo empresarial: no genera ROI, jamás se llega a ser 'Senior', pero es **AUTÉNTICA**. No se compra, no se logra académicamente, pero sobre todo... **PERMANECE EN EL ALMA ETERNAMENTE.**"*
+
+  <br>
+  
+  [![Facebook](https://img.shields.io/badge/Santuario_Ixtlán-Visit_Project-red?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/santuarioixtlan)
+
+</div>
+
+<br>
   *“Automation is not about replacing humans. It’s about elevating them.”*
   <br>
   **Fernando Gutiérrez Berumen** | Intelligent Systems Engineer
