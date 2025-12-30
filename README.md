@@ -67,7 +67,7 @@
 <div align="center">
 
   <br>
-  <img src="santuario_logo.jpg" width="180" style="border-radius: 20px; box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);">
+  <img src="logo_santuarioixtlan.jpg" width="180" style="border-radius: 20px; box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);">
   
   ## ❤️ LA OTRA CARA DEL INGENIERO
   *(The Human Side)*
