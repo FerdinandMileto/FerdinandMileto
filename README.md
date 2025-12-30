@@ -19,8 +19,8 @@
 
   ### 📂 DECLASSIFIED SYSTEMS PROTOCOL
   
-  > *"For the past decade, my architecture operated within **air-gapped local servers** and private repositories under NDA. 
-  > **System Update [2025]:** Security protocol adjusted. I am now open-sourcing select internal tools to demonstrate advanced capabilities in Data Engineering, AI Synthesis, and Web3 Infrastructure."*
+  > *"Durante la última década, mi arquitectura operó dentro de **servidores locales aislados** y repositorios privados bajo NDA. 
+  > **System Update [2025]:** Security protocol adjusted. Ahora estoy abriendo el código fuente de herramientas internas seleccionadas para demostrar capacidades avanzadas en ingeniería de datos, síntesis de IA e infraestructura Web3."*
 
   ---
 
@@ -65,5 +65,5 @@
   
   *“Automation is not about replacing humans. It’s about elevating them.”*
   <br>
-  **Fernando Gutiérrez Berumen** | Intelligent Systems Architect
+  **Fernando Gutiérrez Berumen** | Intelligent Systems Engineer
 </div>
